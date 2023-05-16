@@ -23,9 +23,20 @@
 ## Outils
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
- # 📚 Informations perrsonnelles :
+ # 📚 Informations personnelles :
 
-Je suis un étudiant passionné par le web et le développement. Je suis constamment à la recherche de nouveaux défis et de nouvelles technologies pour améliorer mes compétences. Sur GitHub, vous trouverez certains de mes projets.
+Bonjour à tous ! Je suis un développeur passionné et étudiant en informatique à l'IUT du Havre. Je suis constamment à la recherche pour apprendre de nouvelles choses et de repousser mes limites.
+
+Ma curiosité me pousse à explorer de nouveaux domaines et à découvrir les dernières tendances technologiques. Je suis toujours à l'affût des nouvelles avancées et je m'efforce de rester à jour dans un monde en constante évolution.
+
+En tant que développeur, je suis créatif et j'apprécie la recherche de solutions innovantes pour résoudre les problèmes. J'aime travailler sur des projets qui me permettent d'exprimer ma créativité et d'explorer de nouvelles idées.
+
+Un autre aspect important de mon profil est mon sens du relationnel. Je suis convaincu que de bonnes relations interpersonnelles sont essentielles pour un travail d'équipe efficace. J'aime collaborer avec d'autres développeurs et partager mes idées pour atteindre des objectifs communs.
+
+Ma rigueur et ma ponctualité sont des qualités que je considère indispensables. Je sais m'organiser et prioriser mes tâches afin de mener à bien mes projets.
+
+Enfin, ma polyvalence est un atout supplémentaire. J'ai acquis des connaissances dans divers langages de programmation et outils de développement, ce qui me permet de m'adapter rapidement à de nouvelles technologies et d'aborder des projets variés.
+
 
 ## KLS
 

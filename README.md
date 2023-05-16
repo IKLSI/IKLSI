@@ -37,7 +37,12 @@ Ma rigueur et ma ponctualité sont des qualités que je considère indispensable
 
 Enfin, ma polyvalence est un atout supplémentaire. J'ai acquis des connaissances dans divers langages de programmation et outils de développement, ce qui me permet de m'adapter rapidement à de nouvelles technologies et d'aborder des projets variés.
 
+Merci de votre attention !!
 
 ## KLS
+
+# 📧 Contact :
+
+https://www.linkedin.com/in/kyliann-levesque-87711a277/
 
 

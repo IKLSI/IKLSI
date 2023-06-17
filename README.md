@@ -46,6 +46,10 @@ Enfin, ma polyvalence est un atout supplémentaire. J'ai acquis des connaissance
 
 ## KLS
 
+# 📁 Mon Portfolio :
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/IKLSI/Portfolio_KLS)
+
 # 📧 Contact :
 
 https://www.linkedin.com/in/kyliann-levesque-87711a277/

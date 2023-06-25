@@ -24,6 +24,11 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+## Initiation aux vulnérabilités et à la cybersécurité
+![Forum](https://img.shields.io/badge/forum-%23000000.svg?style=for-the-badge&logo=discourse&logoColor=white)
+![Tutoriel](https://img.shields.io/badge/tutoriel-%23000000.svg?style=for-the-badge&logo=bookstack&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/kali_linux-%23000000.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
+
 ## OS
 <b>Double Boot : Windows 10 / Linux Ubuntu 22.04<br>
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)

@@ -25,6 +25,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## OS
+<b>Double Boot : Windows 10 / Linux Ubuntu 22.04<br>
+![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## IDE
@@ -42,7 +44,7 @@ Un autre aspect important de mon profil est mon sens du relationnel. Je suis con
 
 Ma rigueur et ma ponctualité sont des qualités que je considère indispensables. Je sais m'organiser et prioriser mes tâches afin de mener à bien mes projets.
 
-Enfin, ma polyvalence est un atout supplémentaire. J'ai acquis des connaissances dans divers langages de programmation, ce qui me permet de m'adapter rapidement à de nouvelles technologies et d'aborder des projets variés.
+Enfin, ma polyvalence est un atout supplémentaire. J'ai acquis des connaissances dans divers langages de programmation, ce qui me permet de m'adapter rapidement à de nouvelles technologies et d'aborder des projets variés.</b>
 
 ## KLS
 
@@ -53,5 +55,3 @@ Enfin, ma polyvalence est un atout supplémentaire. J'ai acquis des connaissance
 # 📧 Contact :
 
 https://www.linkedin.com/in/kyliann-levesque-87711a277/
-
-

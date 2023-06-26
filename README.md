@@ -1,3 +1,7 @@
+# 📈 Présentation :
+
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iklsi&theme=monokai)
+
 # 💻 Langage de programmation :
 
 ## Web
@@ -19,6 +23,8 @@
 ## Framework
 ![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Classement](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iklsi&theme=monokai)
 
 ## Serveur
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)

@@ -29,9 +29,10 @@
 
 Bienvenue sur mon profil GitHub ! Je suis étudiant en développement informatique et passionné par le développent applicatif ainsi que la mise en place de services web. Rigoureux, acharné, motivé, ponctuel et curieux je m'efforce de toujours donner le meilleur de moi-même dans les projets que j'entreprends. Au fil de mes projets, j'ai pu développer différentes compétences dans le développement d'applications et la mise en place de services web, en utilisant différentes technologies.
 
-<p style="color:yellow; text-align: center; font-size: 20px; font-style: italic; font-family: 'Courier New', Courier, monospace;">KLS</p>
-
 <div align="center">
+	<p>
+		<i>KLS</i>
+	</p>
 	<a href="https://github.com/IKLSI/Portfolio_KLS">
 		<img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Mon Portfolio">
 	</a>

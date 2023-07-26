@@ -1,3 +1,5 @@
+## 👋 Bienvenue à tous
+
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iklsi&theme=monokai" width="270"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iklsi&theme=monokai" width="270">
 
 ### Langage Web
@@ -27,7 +29,9 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-Bienvenue sur mon profil GitHub ! Je suis étudiant en développement informatique et passionné par le développent applicatif ainsi que la mise en place de services web. Rigoureux, acharné, motivé, ponctuel et curieux je m'efforce de toujours donner le meilleur de moi-même dans les projets que j'entreprends. Au fil de mes projets, j'ai pu développer différentes compétences dans le développement d'applications et la mise en place de services web, en utilisant différentes technologies.
+<div align="center">
+	Bienvenue sur mon profil GitHub ! Je suis étudiant en développement informatique et passionné par le développent applicatif ainsi que la mise en place de services web. Rigoureux, acharné, motivé, ponctuel et curieux je m'efforce de toujours donner le meilleur de moi-même dans les projets que j'entreprends. Au fil de mes projets, j'ai pu développer différentes compétences dans le développement d'applications et la mise en place de services web, en utilisant différentes technologies.
+</div>
 
 <div align="center">
 	<p>

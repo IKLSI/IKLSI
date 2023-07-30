@@ -37,7 +37,7 @@
 	<p>
 		<i>KLS</i>
 	</p>
-	<a href="https://github.com/IKLSI/Portfolio_KLS">
+	<a href="https://iklsi.github.io/Portfolio_KLS/">
 		<img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Mon Portfolio">
 	</a>
 	<a href="https://www.linkedin.com/in/kyliann-levesque-87711a277/">

@@ -43,4 +43,7 @@
 	<a href="https://www.linkedin.com/in/kyliann-levesque-87711a277/">
 		<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 	</a>
+	<a href="https://medium.com/@kyliannlvs2">
+		<img src="https://img.shields.io/badge/medium-000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+	</a>
 </div>

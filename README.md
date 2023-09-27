@@ -1,6 +1,7 @@
 ## 👋 Bienvenue à tous
 <div style="color:white;">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iklsi&theme=monokai" width="270"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iklsi&theme=monokai" width="270">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iklsi&theme=monokai" width="290">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iklsi&show_icons=true&locale=en&layout=compact" width="310"  style="margin-right: 20px;"/>
 
 ### Langage Web
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -11,13 +12,11 @@
 ### Développement d'application orientée objet
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ### Base de données mise en oeuvre
 ![MYSQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![MongoDB](https://img.shields.io/badge/mongodb-%2300f.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### FrontEnd
 ![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)

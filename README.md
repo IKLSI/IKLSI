@@ -1,6 +1,6 @@
 ## 👋 Bienvenue à tous
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iklsi&theme=monokai" width="290" style="margin-right: 20px;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iklsi&show_icons=true&locale=en&layout=compact&theme=monokai" alt="iklsi" width="290" style="margin-right: 20px;">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iklsi&theme=monokai" width="290" style="margin-right: 20px;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iklsi&show_icons=true&locale=en&layout=compact&theme=monokai" alt="iklsi" width="310" style="margin-right: 20px;">
 <br><br>
 <b>
 	<p>	Bienvenue sur mon profil GitHub ! Je suis étudiant en développement informatique et passionné par le développent applicatif ainsi que la mise en place de services web. Résistant au stress, capacité à travailler en équipe et le sens des procédures sont mes principaux atouts.</p>

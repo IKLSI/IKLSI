@@ -1,16 +1,16 @@
 ### 👋 Bienvenue à tous
 
 <div align="center">
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iklsi&theme=radical" width="290" style="margin-right: 20px;">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iklsi&show_icons=true&locale=en&layout=compact&theme=radical" alt="iklsi" width="310" style="margin-right: 20px;">
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iklsi&theme=radical" alt="Statistiques github" width="290" style="margin-right: 20px;">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iklsi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Statistiques langages" width="310" style="margin-right: 20px;">
 </div>
 
 ## Mon profil
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="ria-monga" width="300" height="300" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Gif animé" width="300" height="300" />
 
 Bienvenue sur mon profil GitHub !<br>
-Je suis étudiant en développement informatique et passionné par le développent applicatif ainsi que la mise en place de services web.<br>
+Je suis actuellement étudiant en développement informatique et passionné par le développement applicatif ainsi que la mise en place de services web.<br>
 Résistant au stress, capacité à travailler en équipe et le sens des procédures sont mes principaux atouts.
 
 Je me forme actuellement à l'apprentissage et à la maîtrise des technologies .NET avec entre autre le langage C#.

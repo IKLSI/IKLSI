@@ -1,13 +1,23 @@
-## 👋 Bienvenue à tous
+### 👋 Bienvenue à tous
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iklsi&theme=monokai" width="290" style="margin-right: 20px;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iklsi&show_icons=true&locale=en&layout=compact&theme=monokai" alt="iklsi" width="310" style="margin-right: 20px;">
-<br><br>
-<b>
-	<p>	Bienvenue sur mon profil GitHub ! Je suis étudiant en développement informatique et passionné par le développent applicatif ainsi que la mise en place de services web. Résistant au stress, capacité à travailler en équipe et le sens des procédures sont mes principaux atouts.</p>
-</b>
+<div align="center">
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iklsi&theme=radical" width="290" style="margin-right: 20px;">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iklsi&show_icons=true&locale=en&layout=compact&theme=radical" alt="iklsi" width="310" style="margin-right: 20px;">
+</div>
+
+## Mon profil
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="ria-monga" height="300" />
+
+Bienvenue sur mon profil GitHub !<br>
+Je suis étudiant en développement informatique et passionné par le développent applicatif ainsi que la mise en place de services web.<br>
+Résistant au stress, capacité à travailler en équipe et le sens des procédures sont mes principaux atouts.
 
 ### Langage Web
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45">
 
 ### Développement d'application
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45">

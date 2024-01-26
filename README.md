@@ -1,7 +1,6 @@
-<h1 style="text-align:center">Bienvenue à tous 👋</h1>
-
-<div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; margin-bottom: 50px;">
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iklsi&theme=radical" alt="Statistiques github" width="290" style="border: 0.8px solid white; border-radius: 5px;">
+<div align="center">
+	<h1>Bienvenue à tous 👋</h1>
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iklsi&theme=radical" alt="Statistiques github" width="290" style="margin-right: 50px; border: 0.8px solid white; border-radius: 5px;">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iklsi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Statistiques langages" width="310">
 </div>
 

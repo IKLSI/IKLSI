@@ -12,8 +12,6 @@ Bienvenue sur mon profil GitHub !<br>
 Je suis actuellement alternant en développement informatique et passionné par le développement applicatif ainsi que la mise en place de services web.<br>
 Résistant au stress, capacité à travailler en équipe et le sens des procédures sont mes principaux atouts.
 
-Je me forme actuellement à l'apprentissage et à la maîtrise des technologies .NET avec entre autre le langage VB.NET.
-
 ### Choses avec lesquelles je code
 
 <p>
@@ -22,6 +20,7 @@ Je me forme actuellement à l'apprentissage et à la maîtrise des technologies 
 	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="92px" />
 	<img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" /><br>
 	<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" width="55px" />
+	<img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
 	<img alt="VB.NET" src="https://img.shields.io/badge/-VB.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
 	<img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
 	<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
@@ -37,7 +36,6 @@ Je me forme actuellement à l'apprentissage et à la maîtrise des technologies 
 	<img alt="Visual Studio" src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
 	<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 	<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
-	<img alt="DevExpress" src="https://img.shields.io/badge/-DevExpress-4E8EF7?style=flat-square&logo=devexpress&logoColor=white" />
 </p>
 
 ### Mes derniers articles

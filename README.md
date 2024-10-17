@@ -6,7 +6,7 @@
 
 ## Mon profil
 
-<img align="right" src="https://png.pngtree.com/png-vector/20230620/ourmid/pngtree-male-developer-flat-style-illustration-vector-png-image_7296667.png" alt="Gif animé" width="250" height="250" style="margin-left: 40px;" />
+<img align="right" src="https://png.pngtree.com/png-vector/20230620/ourmid/pngtree-male-developer-flat-style-illustration-vector-png-image_7296667.png" alt="Gif animé" width="250" height="250" style="margin-left: 40px; margin-bottom: 40px;" />
 
 <p style="font-size: 16px;">
 	Je m'appelle <strong>Kyliann</strong>, je suis actuellement en alternance en tant que développeur Web et Desktop.<br>

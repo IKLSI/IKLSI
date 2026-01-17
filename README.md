@@ -1,7 +1,6 @@
 <div align="center">
 	<h1>Bienvenue sur mon profil 👋</h1>
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iklsi&theme=radical" alt="Statistiques GitHub" width="290" style="margin-right: 50px; border: 0.8px solid white; border-radius: 5px;">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=iklsi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Statistiques langages" width="310">
 </div>
 
 ## À propos de moi
@@ -82,5 +81,6 @@ Mon parcours m’a permis de développer une forte capacité d’adaptation, une
 		<img src="https://img.shields.io/badge/medium-000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
 	</a>
 </div>
+
 
 

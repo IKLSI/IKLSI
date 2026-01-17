@@ -9,7 +9,7 @@ jobs:
   generate-stats:
     runs-on: ubuntu-latest
     steps:
-      - uses: MacroPower/github-stats-transparent@latest
+      - uses: MacroPower/github-stats-transparent@main
         with:
           username: iklsi
           theme: dark

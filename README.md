@@ -8,7 +8,9 @@
 
 <img align="right" src="https://png.pngtree.com/png-vector/20230620/ourmid/pngtree-male-developer-flat-style-illustration-vector-png-image_7296667.png" alt="Illustration développeur" width="250" height="250" style="margin-left: 40px; margin-bottom: 40px;" />
 
-Je m'appelle **Kyliann**, étudiant en alternance au sein de **Études et Applications Informatique** en tant que développeur Web et Desktop. Passionné par le développement applicatif et la conception de services web, j'apprécie relever des défis techniques et approfondir mes connaissances en permanence. Mes compétences incluent une grande résistance au stress, une capacité à collaborer efficacement en équipe, un respect strict des procédures et des délais ainsi qu'une rigueur dans la qualité du travail fourni.
+Je m’appelle **Kyliann**, étudiant ingénieur en alternance au sein de FTEL, où j’interviens en tant que développeur React & .NET. Passionné par le développement applicatif et la conception de services web robustes, j’aime comprendre en profondeur les systèmes que je construis et relever des défis techniques concrets.
+
+Mon parcours m’a permis de développer une forte capacité d’adaptation, une résistance au stress ainsi qu’un réel sens du travail en équipe. J’accorde une grande importance à la rigueur, au respect des bonnes pratiques et à la qualité du code, tout en restant attentif aux contraintes métiers, aux procédures et aux délais.
 
 ## 💻 Technologies et outils
 
@@ -80,4 +82,5 @@ Je m'appelle **Kyliann**, étudiant en alternance au sein de **Études et Applic
 		<img src="https://img.shields.io/badge/medium-000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
 	</a>
 </div>
+
 

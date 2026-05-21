@@ -12,7 +12,7 @@
 
 ## À propos de moi
 
-<img align="right" src="https://png.pngtree.com/png-vector/20230620/ourmid/pngtree-male-developer-flat-style-illustration-vector-png-image_7296667.png" alt="Illustration développeur" width="250" height="250" style="margin-left: 40px; margin-bottom: 40px;" />
+<img align="right" src="developer.png" alt="Illustration développeur" width="250" height="250" style="margin-left: 40px; margin-bottom: 40px;" />
 
 Je m’appelle **Kyliann**, étudiant ingénieur en alternance au sein de FTEL, où j’interviens en tant que développeur React & .NET. Passionné par le développement applicatif et la conception de services web robustes, j’aime comprendre en profondeur les systèmes que je construis et relever des défis techniques concrets.
 

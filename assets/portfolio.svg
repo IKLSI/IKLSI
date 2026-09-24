@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="183" height="44" viewBox="0 0 183 44" role="img" aria-label="Portfolio">
+  <style>
+    text { font-family: "SF Mono", ui-monospace, Menlo, Consolas, "DejaVu Sans Mono", monospace; font-size: 15px; font-weight: 700; }
+  </style>
+  <rect x="1" y="1" width="181" height="42" rx="21" fill="#141321"/>
+  <rect x="1" y="1" width="181" height="42" rx="21" fill="#fe428e" fill-opacity="0.12" stroke="#fe428e" stroke-opacity="0.7" stroke-width="1.5"/>
+  <g fill="none" stroke="#fe428e" stroke-width="1.8" stroke-linecap="round">
+    <circle cx="30" cy="22" r="8.5"/>
+    <ellipse cx="30" cy="22" rx="3.6" ry="8.5"/>
+    <path d="M21.5 22h17"/>
+  </g>
+  <text x="48" y="27.5" fill="#fe428e" textLength="82.8" lengthAdjust="spacingAndGlyphs">Portfolio</text>
+  <path d="M152.8 26l8-8M154.3 18h6.5v6.5" fill="none" stroke="#fe428e" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

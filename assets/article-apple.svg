@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="52" viewBox="0 0 960 52" role="img" aria-label="Computer revolution: Apple chips redefine the future of processors and computers">
+  <defs>
+    <linearGradient id="glow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1b1830"/>
+      <stop offset="1" stop-color="#110f1c"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: "SF Mono", ui-monospace, Menlo, Consolas, "DejaVu Sans Mono", monospace; font-size: 14px; fill: #e6e6f0; }
+  </style>
+  <rect x="0.5" y="0.5" width="959" height="51" rx="12" fill="url(#glow)" stroke="#2c2945"/>
+  <circle cx="28" cy="26" r="4" fill="#fe428e"/>
+  <text x="46" y="31" style="fill:#f8d847" textLength="59.0" lengthAdjust="spacingAndGlyphs">15db82a</text>
+  <text x="130" y="31" textLength="674.4" lengthAdjust="spacingAndGlyphs">Computer revolution: Apple chips redefine the future of processors and computers</text>
+  <path d="M916 32l8-8M917.5 24h6.5v6.5" fill="none" stroke="#fe428e" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="364" viewBox="0 0 960 364" role="img" aria-label="Je m’appelle Kyliann, étudiant ingénieur en alternance au sein de FTEL, où j’interviens en tant que développeur React &amp; .NET. Passionné par le développement applicatif et la conception de services web robustes, j’aime comprendre en profondeur les systèmes que je construis et relever des défis techniques concrets. Mon parcours m’a permis de développer une forte capacité d’adaptation, une résistance au stress ainsi qu’un réel sens du travail en équipe. J’accorde une grande importance à la rigueur, au respect des bonnes pratiques et à la qualité du code, tout en restant attentif aux contraintes métiers, aux procédures et aux délais.">
+  <defs>
+    <linearGradient id="glow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1b1830"/>
+      <stop offset="1" stop-color="#110f1c"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fe428e"/>
+      <stop offset="1" stop-color="#a9fef7"/>
+    </linearGradient>
+    <clipPath id="typing">
+      <rect x="180" y="26" height="24" width="0">
+        <animate attributeName="width" values="0;9;18;27;36;45;54;63;72;81;90;99;108" calcMode="discrete" dur="0.9s" begin="0.3s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="grow">
+      <rect x="64" y="68" width="4" height="0">
+        <animate attributeName="height" from="0" to="264" dur="0.77s" begin="1.3s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <style>
+    text { font-family: "SF Mono", ui-monospace, Menlo, Consolas, "DejaVu Sans Mono", monospace; font-size: 14px; fill: #e6e6f0; }
+    .pink { fill: #fe428e; }
+    .cyan { fill: #a9fef7; }
+    .yellow { fill: #f8d847; }
+    .muted { fill: #6e6a8a; }
+    .gutter { fill: #4a4666; font-size: 12px; }
+    .bold { font-weight: 700; }
+    .line { opacity: 0; animation: reveal .35s ease-out forwards; }
+    @keyframes reveal { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) {
+      .line { animation: none; opacity: 1; }
+    }
+  </style>
+
+  <rect x="0.5" y="0.5" width="959" height="363" rx="14" fill="url(#glow)" stroke="#2c2945"/>
+
+  <text x="24" y="42"><tspan class="pink bold">kyliann@github</tspan><tspan>:</tspan><tspan class="cyan">~</tspan><tspan>$</tspan></text>
+  <text x="180" y="42" clip-path="url(#typing)" class="yellow">cat about.md</text>
+
+  <rect x="64" y="68" width="4" height="264" rx="2" fill="url(#bar)" clip-path="url(#grow)"/>
+
+  <text x="56" y="84" text-anchor="end" class="line gutter" style="animation-delay:1.30s">1</text>
+  <text x="84" y="84" class="line" xml:space="preserve" style="animation-delay:1.30s"><tspan class="muted bold">## </tspan><tspan class="pink bold">À propos</tspan></text>
+  <text x="56" y="108" text-anchor="end" class="line gutter" style="animation-delay:1.37s">2</text>
+  <text x="56" y="132" text-anchor="end" class="line gutter" style="animation-delay:1.44s">3</text>
+  <text x="84" y="132" class="line" xml:space="preserve" style="animation-delay:1.44s">Je m’appelle <tspan class="pink bold">Kyliann</tspan>, étudiant ingénieur en alternance au sein de <tspan class="pink bold">FTEL</tspan>, où j’interviens en</text>
+  <text x="56" y="156" text-anchor="end" class="line gutter" style="animation-delay:1.51s">4</text>
+  <text x="84" y="156" class="line" xml:space="preserve" style="animation-delay:1.51s">tant que <tspan class="cyan bold">développeur React &amp; .NET</tspan>. Passionné par le développement applicatif et la conception</text>
+  <text x="56" y="180" text-anchor="end" class="line gutter" style="animation-delay:1.58s">5</text>
+  <text x="84" y="180" class="line" xml:space="preserve" style="animation-delay:1.58s">de <tspan class="yellow">services web robustes</tspan>, j’aime comprendre en profondeur les systèmes que je construis et</text>
+  <text x="56" y="204" text-anchor="end" class="line gutter" style="animation-delay:1.65s">6</text>
+  <text x="84" y="204" class="line" xml:space="preserve" style="animation-delay:1.65s">relever des défis techniques concrets.</text>
+  <text x="56" y="228" text-anchor="end" class="line gutter" style="animation-delay:1.72s">7</text>
+  <text x="56" y="252" text-anchor="end" class="line gutter" style="animation-delay:1.79s">8</text>
+  <text x="84" y="252" class="line" xml:space="preserve" style="animation-delay:1.79s">Mon parcours m’a permis de développer une forte <tspan class="cyan">capacité d’adaptation</tspan>, une <tspan class="cyan">résistance au</tspan></text>
+  <text x="56" y="276" text-anchor="end" class="line gutter" style="animation-delay:1.86s">9</text>
+  <text x="84" y="276" class="line" xml:space="preserve" style="animation-delay:1.86s"><tspan class="cyan">stress </tspan>ainsi qu’un réel <tspan class="cyan">sens du travail en équipe</tspan>. J’accorde une grande importance à la</text>
+  <text x="56" y="300" text-anchor="end" class="line gutter" style="animation-delay:1.93s">10</text>
+  <text x="84" y="300" class="line" xml:space="preserve" style="animation-delay:1.93s"><tspan class="pink bold">rigueur</tspan>, au respect des <tspan class="pink bold">bonnes pratiques </tspan>et à la <tspan class="pink bold">qualité du code</tspan>, tout en restant attentif aux</text>
+  <text x="56" y="324" text-anchor="end" class="line gutter" style="animation-delay:2.00s">11</text>
+  <text x="84" y="324" class="line" xml:space="preserve" style="animation-delay:2.00s">contraintes métiers, aux procédures et aux délais.</text>
+</svg>

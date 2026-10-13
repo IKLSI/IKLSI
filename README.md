@@ -16,12 +16,6 @@
   <a href="https://www.linkedin.com/in/kyliann-levesque-87711a277/"><img src="assets/linkedin.svg" alt="LinkedIn" height="44" /></a>
 </p>
 
-### `❯ git log --oneline medium/`
-
-<a href="https://medium.com/@kyliannlvs2/developer-my-workspace-and-development-tools-a028e57905ba"><img src="assets/article-workspace.svg" alt="Developer: My workspace and development tools" width="100%" /></a>
-<a href="https://medium.com/@kyliannlvs2/computer-revolution-apple-chips-redefine-the-future-of-processors-and-computers-15db82a143bb"><img src="assets/article-apple.svg" alt="Computer revolution: Apple chips redefine the future of processors and computers" width="100%" /></a>
-<a href="https://medium.com/@kyliannlvs2/it-developer-guide-to-an-impactful-and-valuable-portfolio-f8cd6217ef8d"><img src="assets/article-portfolio.svg" alt="IT Developer: Guide to an impactful and valuable portfolio" width="100%" /></a>
-
 ### `❯ gh stats`
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iklsi&theme=radical" alt="Activité GitHub" width="100%" />
